@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6c4b81b-8e34-42f5-bf9d-9a65ae181044" name="Changes" comment="start">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventi/src/main/java/it/gestione/eventi/auth/RegisterAdminRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventi/src/main/java/it/gestione/eventi/evento/Evento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventi/src/main/java/it/gestione/eventi/evento/EventoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventi/src/main/java/it/gestione/eventi/evento/EventoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventi/src/main/java/it/gestione/eventi/evento/EventoRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventi/src/main/java/it/gestione/eventi/evento/EventoResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventi/src/main/java/it/gestione/eventi/evento/EventoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventi/src/main/java/it/gestione/eventi/exceptions/Error.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventi/src/main/java/it/gestione/eventi/exceptions/ExceptionHandlerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventi/src/main/java/it/gestione/eventi/prenotazione/Prenotazione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventi/src/main/java/it/gestione/eventi/prenotazione/PrenotazioneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventi/src/main/java/it/gestione/eventi/prenotazione/PrenotazioneRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventi/src/main/java/it/gestione/eventi/prenotazione/PrenotazioneRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventi/src/main/java/it/gestione/eventi/prenotazione/PrenotazioneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventi/src/main/java/it/gestione/eventi/response/GeneralResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eventi/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventi/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eventi/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Entity" />
+        <option value="Repository" />
+        <option value="Service" />
+        <option value="Request" />
+        <option value="Response" />
+        <option value="Controller" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Valter-Matta"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Valter-Matta/U5-W3-D5-Gestione-eventi.git",
+    "accountId": "4ff91818-0e41-4bb7-96a0-32cdc6bdba36"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2tLNlhkc4ji4xFMxXDp5KxplKMb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EventiApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "feature/import-classe-ut",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/matta/OneDrive/Desktop/Epicode/JAVA/U5-W3-D5-Gestione-eventi/eventi/src/main/java/it/gestione/eventi",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\matta\OneDrive\Desktop\Epicode\JAVA\U5-W3-D5-Gestione-eventi\eventi\src\main\java\it\gestione\eventi" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="it.gestione.eventi.auth" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EventiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="CL_KEY" value="772668352724712" />
+        <env name="CL_NAME" value="dn73ntxtg" />
+        <env name="CL_SECRET" value="8P_JKPCDRDe0WTV5uP6NyvYLQ7s" />
+        <env name="DB_PWD" value="Valter.98" />
+        <env name="DB_URL" value="jdbc:postgresql://localhost:5432/" />
+        <env name="DB_USER" value="postgres" />
+        <env name="TOKEN_SECRET" value="G7dLkPzS3LmHqT9UwXyIbV28nHjPeR5ZGTRU77891Yht" />
+        <env name="MAIL_PWD" value="nemi nofx cxrx uxhd" />
+        <env name="MAIL_USER" value="mattavalter98@gmail.com" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="it.gestione.eventi.EventiApplication" />
+      <module name="eventi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.gestione.eventi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EventiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6c4b81b-8e34-42f5-bf9d-9a65ae181044" name="Changes" comment="" />
+      <created>1740127548426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740127548426</updated>
+    </task>
+    <task id="LOCAL-00001" summary="start">
+      <option name="closed" value="true" />
+      <created>1740127703166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740127703166</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start" />
+    <option name="LAST_COMMIT_MESSAGE" value="start" />
+  </component>
+</project>
